@@ -1,1 +1,4 @@
-# smart
+# The Smart Learning Tablet for Kids is an interactive, portable educational device designed to make learning engaging through touchscreen-based puzzles, games, and voice-assisted lessons. It aims to enhance math and cognitive skills using a child-friendly interface powered by ESP8266 or Raspberry Pi. The device features real-time feedback, adaptive learning, and offline accessibility,making it an effective alternative to traditional learning methods.
+
+# Many children struggle with traditional textbook-based learning due to a lack of engagement,accessibility, and adaptability. While digital learning tools exist, they often require internet access, are expensive, or promote passive screen time rather than interactive learning. This project addresses the problem by developing a low-cost, interactive learning tablet that providespersonalized, gamified, and voice-assisted educational experiences. Using a touchscreen, text-tospeech API, and a progress-tracking system, the device ensures that children learn at their own pacewhile staying engaged.
+
